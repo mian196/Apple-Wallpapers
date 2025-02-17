@@ -9,4 +9,5 @@ I do not own any of these wallpapers. All rights belong to Apple Inc. This repos
 Feel free to download and use these wallpapers for personal use. Do not use them for commercial purposes.  
 
 ## Credits  
-All wallpapers are the property of Apple Inc.  
+- All wallpapers are the property of Apple Inc.
+- [macOS Google Photos Album](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3)
